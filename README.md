@@ -1,5 +1,6 @@
 # Middle
 ##基础要求
+![](https://github.com/hellomangogo/Middle/blob/master/images/1YF%24V5SYEBLAFFD7QNJT%5D)1.png)
 1.在noteslist里添加时间戳：
  public static final String COLUMN_NAME_CREATE_DATE = "created";
  private static final String[] PROJECTION = new String[] {
