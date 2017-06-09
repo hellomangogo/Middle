@@ -58,6 +58,7 @@
     </ListView>
 </LinearLayout>
 //在layout中新建list.xml，并插入searchview
+![](https://github.com/hellomangogo/Middle/blob/master/images/JQ%5BDGQNKV7%7B%5B86DKWH%40B%60(Y.png)
 3.美化ui
     
     android:layout_width="match_parent"
