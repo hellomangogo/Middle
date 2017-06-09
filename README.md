@@ -29,6 +29,7 @@
 
 
 </LinearLayout>//xml中插入textview，显示时间
+![](https://github.com/hellomangogo/Middle/blob/master/images/G_SISAGIFTO7)J%7DHYNT%7B25M.png)
 2.按标题搜索的查询功能
   private SearchView searchView;
     /**
