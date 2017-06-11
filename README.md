@@ -1,7 +1,7 @@
 # Middle
 ##基础要求
 
-![](https://github.com/hellomangogo/Middle/blob/master/images/1.png)
+![](https://github.com/hellomangogo/Middle/blob/master/images/a.jpg)
 
 1.在noteslist里添加时间戳：
 //新建DateUtil.class类，用于将时间戳转换为指定格式的日期字符串
@@ -47,7 +47,7 @@ public class DateUtil {
 
 
 </LinearLayout>//xml中插入textview，显示时间
-![](https://github.com/hellomangogo/Middle/blob/master/images/G_SISAGIFTO7)J%7DHYNT%7B25M.png)
+![](https://github.com/hellomangogo/Middle/blob/master/images/b.jpg)
 2.按标题搜索的查询功能
 //添加搜索控件SearchView
 
@@ -109,7 +109,7 @@ public class DateUtil {
     </ListView>
 </LinearLayout>
 //在layout中新建list.xml，并插入searchview
-![](https://github.com/hellomangogo/Middle/blob/master/images/JQ%5BDGQNKV7%7B%5B86DKWH%40B%60(Y.png)
+![](https://github.com/hellomangogo/Middle/blob/master/images/c.png)
 3.美化ui
     
     android:layout_width="match_parent"
